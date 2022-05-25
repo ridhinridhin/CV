@@ -1,3 +1,4 @@
+/*****************************TAG SELECTOR**********************/
 body {
     background-color: #A0BCC2;
   }
@@ -14,3 +15,11 @@ body {
     h3 {
     color:#570A57;
   }
+
+  /*************************CLASS SELECTOR*********************/
+.insta:hover{
+  color:#FF1818;
+}
+.insta{
+  color: #4700D8;
+}
